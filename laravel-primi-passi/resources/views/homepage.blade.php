@@ -10,5 +10,9 @@
     <h1>
         Laravello Home Page
     </h1>
+    <h1>
+        {{ $nome }}
+        {{ $cognome }}
+    </h1>
 </body>
 </html>
